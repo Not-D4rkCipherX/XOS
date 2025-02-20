@@ -125,7 +125,7 @@ class XOS:
                 "walletAddress": address,
                 "signMessage": message,
                 "signature": f"0x{signature}",
-                "referrer": "1V7NKQ"
+                "referrer": "TLK7VU"
             }
             return payload
         except Exception as e:
