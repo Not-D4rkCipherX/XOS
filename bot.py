@@ -45,7 +45,7 @@ class XOS:
         {Fore.GREEN + Style.BRIGHT}Auto Claim {Fore.BLUE + Style.BRIGHT}XOS - BOT
             """
             f"""
-        {Fore.GREEN + Style.BRIGHT}Rey? {Fore.YELLOW + Style.BRIGHT}<INI WATERMARK>
+        {Fore.GREEN + Style.BRIGHT}Join For More Scripts: {Fore.YELLOW + Style.BRIGHT}(https://t.me/D4rkCipherX)
             """
         )
 
